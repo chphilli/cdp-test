@@ -2,4 +2,4 @@ this is a test file in git?
 
 another line.
 
-Let's start working on a branch.
+Let's start working on a branch. This master change conflicts with the feature.
